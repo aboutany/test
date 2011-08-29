@@ -32,5 +32,6 @@ function initialize(){
     }
         
     dtf.home = new Home(dtf);
+    trace("!!!!!");
     return -1;
 }
